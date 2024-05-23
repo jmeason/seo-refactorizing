@@ -31,7 +31,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* changed selector name along with the html element  */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -83,7 +83,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* changed the names for each section under one, so there wasn't any repition, becuase each class had the same code  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +116,7 @@ p {
 }
 
 
-
+/* changed the class from all the individual ones to under one and changed the selector name to match */
 .information-block {
     margin-bottom: 20px;
     padding: 50px;
@@ -126,7 +126,7 @@ p {
     color: #ffffff;
 }
 
-
+/* same as line 119  */
 
 .information-block img {
     max-height: 200px;
