@@ -3,7 +3,8 @@ This project was meant to help us change HTML elements and CSS selectors that we
 The code we fixed is made, so that it is easier to read, without changing the layout of the website.
 
 ## Screenshot
-
+![alt text](screenshot1.JPG)
+![alt text](screenshot2.JPG)
 
 ## Link to deploy application
 https://jmeason.github.io/seo-refactorizing/
